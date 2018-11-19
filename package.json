@@ -1,0 +1,23 @@
+{
+  "name": "js-sample",
+  "version": "1.0.0",
+  "description": "basic algorithm problem solution in js",
+  "main": "\u001b[C\u001b[C\u001b",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tsc": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhanglu3506/js-sample.git"
+  },
+  "author": "lu zhang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhanglu3506/js-sample/issues"
+  },
+  "homepage": "https://github.com/zhanglu3506/js-sample#readme",
+  "devDependencies": {
+    "typescript": "^3.0.3"
+  }
+}
